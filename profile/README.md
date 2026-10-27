@@ -4,13 +4,27 @@
 
 <h1 align="center">Your games. Your progress. Your workspace.</h1>
 
-<p align="center">Achievement, stat, presence, and profile tools for Xbox and PC games.<br>Explore the desktop app and the Android and iOS betas.</p>
+<p align="center">Free, open-source achievement, stat, presence, and profile tools for Xbox and PC games.<br>Explore the desktop app and the Android and iOS betas.</p>
 
 <p align="center">
   <a href="https://github.com/Achievement-Labs/achievement-labs/releases/latest"><img src="https://img.shields.io/badge/Download-Desktop-83e6ad?style=for-the-badge&amp;labelColor=14232b" alt="Download Achievement Labs Desktop for Windows"></a>
   <a href="https://github.com/Achievement-Labs/achievement-labs-mobile"><img src="https://img.shields.io/badge/Explore-Mobile-83e6ad?style=for-the-badge&amp;labelColor=14232b" alt="Explore the Android and iOS betas"></a>
   <a href="https://discord.gg/EY6AJpNfVu"><img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&amp;labelColor=14232b&amp;logo=discord&amp;logoColor=white" alt="Join the Achievement Labs Discord"></a>
 </p>
+
+## About the Project
+
+Achievement Labs started as a fork of <a href="https://github.com/Fumo-Unlockers/Xbox-Achievement-Unlocker">Xbox Achievement Unlocker (XAU)</a>, where I experimented with achievements in tough-to-crack games like Halo: The Master Chief Collection (Halo: MCC) and Forza. Over time, it grew into something bigger, and I wanted to share it so other people could experiment too. Discovering that console titles could also be supported made it the perfect time to expand support for event-based Xbox achievements.
+
+Adding updated tools based on <a href="https://github.com/gibbed/SteamAchievementManager">Steam Achievement Manager (SAM)</a>, alongside Xbox 360 profile workflows informed by Horizon and legacy Games for Windows Live Achievement Manager (GFWLAM) tooling, helped shape Achievement Labs into an all-in-one achievement toolkit.
+
+The goal is for Achievement Labs to remain open-source and free. Public releases and their features are offered at no cost, with no paid unlocks or feature purchases required. Ideas, contributions, and improvements are always welcome.
+
+Check the <a href="https://achievementlabs.org/roadmap.html">Achievement Labs roadmap</a> to see what's next. If you'd like to support development and get involved in early previews of planned Ubisoft, EA Play, GOG, and Epic Games unlockers, consider sponsoring the project when sponsorship opens. These are planned features, and public releases will remain free.
+
+A huge thank you to everyone who has supported the project through ideas, games, event contributions, testing, and more. Special thanks to <a href="https://github.com/thevampirebat">@thevampirebat</a> for the work on an awesome mobile release and Mac support. Our <a href="https://discord.gg/EY6AJpNfVu">Discord community</a> is growing, and new members are always welcome!
+
+— Trippy
 
 ## Find your workspace
 
