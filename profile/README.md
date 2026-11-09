@@ -10,6 +10,7 @@
   <a href="https://github.com/Achievement-Labs/achievement-labs/releases/latest"><img src="https://img.shields.io/badge/Download-Desktop-83e6ad?style=for-the-badge&amp;labelColor=14232b" alt="Download Achievement Labs Desktop for Windows"></a>
   <a href="https://github.com/Achievement-Labs/achievement-labs-mobile"><img src="https://img.shields.io/badge/Explore-Mobile-83e6ad?style=for-the-badge&amp;labelColor=14232b" alt="Explore the Android and iOS betas"></a>
   <a href="https://discord.gg/EY6AJpNfVu"><img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&amp;labelColor=14232b&amp;logo=discord&amp;logoColor=white" alt="Join the Achievement Labs Discord"></a>
+  <a href="https://buymeacoffee.com/trippyelephant.com"><img src="https://img.shields.io/badge/Support-Buy_Me_a_Coffee-6ef08a?style=for-the-badge&amp;labelColor=14232b&amp;logo=buymeacoffee&amp;logoColor=white" alt="Support Achievement Labs on Buy Me a Coffee"></a>
 </p>
 
 ## About the Project
@@ -20,7 +21,7 @@ Adding updated tools based on <a href="https://github.com/gibbed/SteamAchievemen
 
 The goal is for Achievement Labs to remain open-source and free. Public releases and their features are offered at no cost, with no paid unlocks or feature purchases required. Ideas, contributions, and improvements are always welcome.
 
-Check the <a href="https://achievementlabs.org/roadmap.html">Achievement Labs roadmap</a> to see what's next. If you'd like to support development and get involved in early previews of planned Ubisoft, EA Play, GOG, and Epic Games unlockers, consider sponsoring the project when sponsorship opens. These are planned features, and public releases will remain free.
+Check the <a href="https://achievementlabs.org/roadmap.html">Achievement Labs roadmap</a> to see what's next. If you'd like to support development, you can <a href="https://buymeacoffee.com/trippyelephant.com">buy me a coffee</a>. Contributions are optional, and all tools remain free and available to everyone.
 
 A huge thank you to everyone who has supported the project through ideas, games, event contributions, testing, and more. Special thanks to <a href="https://github.com/thevampirebat">@thevampirebat</a> for the work on an awesome mobile release and Mac support. Our <a href="https://discord.gg/EY6AJpNfVu">Discord community</a> is growing, and new members are always welcome!
 
